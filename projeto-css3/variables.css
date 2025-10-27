@@ -1,0 +1,20 @@
+:root {
+  --cor-primaria: #1e88e5;
+  --cor-secundaria: #e53935;
+  --cor-neutra-clara: #f9f9f9;
+  --cor-neutra-media: #cccccc;
+  --cor-neutra-escura: #333333;
+
+  --fonte-xs: 12px;
+  --fonte-sm: 14px;
+  --fonte-md: 16px;
+  --fonte-lg: 20px;
+  --fonte-xl: 24px;
+
+  --espaco-1: 8px;
+  --espaco-2: 16px;
+  --espaco-3: 24px;
+  --espaco-4: 32px;
+  --espaco-5: 48px;
+  --espaco-6: 64px;
+}
